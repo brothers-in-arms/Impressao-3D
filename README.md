@@ -23,8 +23,7 @@ Em caso de necessidade de filamento responder ao Formulário
 
 #### Demais regiões
  
- [Brothers Logística]
-(https://chat.whatsapp.com/EffFOngeMR42cj2SHPpTEB)
+ [Brothers Logística](https://chat.whatsapp.com/EffFOngeMR42cj2SHPpTEB)
 
 
 
