@@ -8,7 +8,7 @@ Se entrou no grupo em busca de necessidade de EPIs (Protetores faciais, mascaras
 
 
 ### Fluxo de "trabalho"
-Utilizar o Modelo mais novo aqui no Repositório do Git Os modelos do Repositório já passaram por processo de validação por profissionais da saúde. Quando novas versões forem aprovadas os arquivos do respositório serão atualizados.
+Utiliza [o Modelo mais novo](https://github.com/brothers-in-arms/Impressao-3D/blob/master/Arquivos%20para%20impressoras%203D/Modelos%20STL/Higia_v3.stl)  aqui no Repositório do Git Os modelos do Repositório já passaram por processo de validação por profissionais da saúde. Quando novas versões forem aprovadas os arquivos do respositório serão atualizados.
 
 #### Requisição de filamento
 Em caso de necessidade de filamento responder ao Formulário
@@ -28,6 +28,6 @@ Em caso de necessidade de filamento responder ao Formulário
 
 
 #### Realmente não tenho como me Locomover???
-Utilze Somente em caso de real necessidade.
+Utilize Somente em caso de real necessidade.
 Em situação de voçê realmente não poder se locomover até uma dessas localidades favor entra com o Bruno Moraes no telefone +55 51 8146-9414
 
