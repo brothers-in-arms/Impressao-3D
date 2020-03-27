@@ -7,7 +7,7 @@ Se entrou no grupo em busca de necessidade de EPIs (protetores faciais, mascaras
 
 
 ### Modelo Utilizado
-Utilize o [Modelo Impresso em 3D](http://hyperurl.co/StlAtual) e [Modelo Corte a Laiser](https://github.com/brothers-in-arms/Impressao-3D/tree/master/Corte%20a%20laiser) aqui do Repositório do Git. Os modelos do Repositório já passaram por processo de validação por profissionais da saúde. Conforme novas versões forem aprovadas, os arquivos do respositório serão atualizados.
+Utilize o [ Modelo](http://hyperurl.co/StlAtual)  mais novo aqui no Repositório do Git. Os modelos do Repositório já passaram por processo de validação por profissionais da saúde. Conforme novas versões forem aprovadas, os arquivos do respositório serão atualizados.
 
 ### Requisição de matéria prima
 Em caso de necessidade de matéria prima para fabricação (filamento, elástico, acetato), responder ao [Fromulário de Requisição de Matéria Prima](https://docs.google.com/forms/d/e/1FAIpQLSfCF2tqPqlxGbZmy_XlRqZDuRsnOGyRtH_zxF1fAT7MMF0fhQ/viewform)
