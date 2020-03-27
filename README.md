@@ -3,17 +3,14 @@
 ## Novo no grupo?
 
 ### Precisa de EPI?
-Se entrou no grupo em busca de necessidade de EPIs (protetores faciais, mascaras e afins), utilize o link abaixo:
-[Link de Requisição](https://sites.google.com/view/brotherinarmscovid19/cadastro-demandas-de-epis)
+Se entrou no grupo em busca de necessidade de EPIs (protetores faciais, mascaras e afins), utilize o [Link de Requisição](https://sites.google.com/view/brotherinarmscovid19/cadastro-demandas-de-epis)
 
 
 ### Modelo Utilizado
 Utilize o [ Modelo](http://hyperurl.co/StlAtual)  mais novo aqui no Repositório do Git. Os modelos do Repositório já passaram por processo de validação por profissionais da saúde. Conforme novas versões forem aprovadas, os arquivos do respositório serão atualizados.
 
-### Requisição de matéria prima para
-Em caso de necessidade de matéria prima para fabricar faceshields (filamento, elástico, acetato), responder ao Formulário
-
-[Fromulário de Requisição de Matéria Prima](https://docs.google.com/forms/d/e/1FAIpQLSfCF2tqPqlxGbZmy_XlRqZDuRsnOGyRtH_zxF1fAT7MMF0fhQ/viewform)
+### Requisição de matéria prima
+Em caso de necessidade de matéria prima para fabricação (filamento, elástico, acetato), responder ao [Fromulário de Requisição de Matéria Prima](https://docs.google.com/forms/d/e/1FAIpQLSfCF2tqPqlxGbZmy_XlRqZDuRsnOGyRtH_zxF1fAT7MMF0fhQ/viewform)
 
 ### Entrega de peças prontas
 
@@ -28,6 +25,6 @@ Em caso de necessidade de matéria prima para fabricar faceshields (filamento, e
 
 
 #### Realmente não tem como se locomover?
-Utilize somente em caso de real necessidade.
+**Utilize somente em caso de real necessidade.**
 Em situação de você realmente não poder se locomover até uma dessas localidades, favor entre em contato com Bruno Moraes, no telefone +55 (51) 8146-9414.
 
