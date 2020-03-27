@@ -8,7 +8,7 @@ Se entrou no grupo em busca de necessidade de EPIs (protetores faciais, mascaras
 
 
 ### Modelo Utilizado
-Utilize o [ Modelo](https://hyperurl.co/StlAtual)  mais novo aqui no Repositório do Git. Os modelos do Repositório já passaram por processo de validação por profissionais da saúde. Conforme novas versões forem aprovadas, os arquivos do respositório serão atualizados.
+Utilize o [ Modelo](http://hyperurl.co/StlAtual)  mais novo aqui no Repositório do Git. Os modelos do Repositório já passaram por processo de validação por profissionais da saúde. Conforme novas versões forem aprovadas, os arquivos do respositório serão atualizados.
 
 ### Requisição de matéria prima para
 Em caso de necessidade de matéria prima para fabricar faceshields (filamento, elástico, acetato), responder ao Formulário
