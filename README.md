@@ -7,10 +7,10 @@ Se entrou no grupo em busca de necessidade de EPIs (protetores faciais, mascaras
 [Link de Requisição](https://sites.google.com/view/brotherinarmscovid19/cadastro-demandas-de-epis)
 
 
-### Fluxo de "trabalho"
+### Modelo Utilizado
 Utilize [o Modelo mais novo](https://github.com/brothers-in-arms/Impressao-3D/raw/master/Arquivos%20para%20impressoras%203D/Modelos%20STL/Higia_v3.stl)  aqui no Repositório do Git. Os modelos do Repositório já passaram por processo de validação por profissionais da saúde. Conforme novas versões forem aprovadas, os arquivos do respositório serão atualizados.
 
-#### Requisição de filamento
+### Requisição de matéria prima para
 Em caso de necessidade de matéria prima para fabricar faceshields (filamento, elástico, acetato), responder ao Formulário
 
 [Fromulário de Requisição de Matéria Prima](https://docs.google.com/forms/d/e/1FAIpQLSfCF2tqPqlxGbZmy_XlRqZDuRsnOGyRtH_zxF1fAT7MMF0fhQ/viewform)
