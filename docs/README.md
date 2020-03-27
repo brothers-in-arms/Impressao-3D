@@ -4,7 +4,6 @@
 
 ### Precisa de EPI?
 Se entrou no grupo em busca de necessidade de EPIs (protetores faciais, mascaras e afins), utilize o [Link de Requisição](https://sites.google.com/view/brotherinarmscovid19/cadastro-demandas-de-epis)
-https://github.com/brothers-in-arms/Impressao-3D/tree/master/Arquivos%20para%20impressoras%203D/Configura%C3%A7%C3%B5es%20Base%20-%20Exemplo%20funcional
 
 
 ### Modelo Utilizado
