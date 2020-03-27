@@ -17,11 +17,19 @@ As configurações para [impressão 3D](https://github.com/brothers-in-arms/Impr
 Em caso de necessidade de matéria prima para fabricação (filamento, elástico, acetato), responder ao [Fromulário de Requisição de Matéria Prima](https://docs.google.com/forms/d/e/1FAIpQLSfCF2tqPqlxGbZmy_XlRqZDuRsnOGyRtH_zxF1fAT7MMF0fhQ/viewform)
 
 
-### Entrega de peças prontas
+### Entrega de peças prontas (peças impressas, acetato cortado e etc.)
 
 #### Porto Alegre
 
 [PrintUp3D](https://www.google.com/maps/place/Printup3D+-+Solu%C3%A7%C3%B5es+em+Impress%C3%A3o+3D/@-30.03172,-51.2188897,17z/data=!3m1!4b1!4m5!3m4!1s0x951979076cb55ecf:0xf40f3f20c2c5f2e2!8m2!3d-30.03172!4d-51.216701) - Das 09h às 18h, sempre tem gente. Por garantia e para agendar entregas em outros horários, ligue para o número (51)30589939.
+
+#### Caxias do Sul
+
+[Neo Technology](https://www.google.com/maps/place/Neo+Technology/@-29.1638549,-51.1834471,17z/data=!3m1!4b1!4m5!3m4!1s0x951ea32af8dbb117:0x699e11ce54b83c0c!8m2!3d-29.1638549!4d-51.1812584) - Aguardando Infos
+
+#### Passo Fundo
+
+Aguardando Infos
 
 #### Demais regiões
 
