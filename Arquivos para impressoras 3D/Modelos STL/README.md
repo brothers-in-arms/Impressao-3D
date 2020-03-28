@@ -1,4 +1,4 @@
-# FACE SHIELD COVID-19
+# Aviso Legal
 
 Protetores faciais desenvolvidos para doação, afim de ajudar a suprir a demanda durante a epidemia de COVID-19 no Brasil.
 
