@@ -7,7 +7,7 @@
 
 1.Cuidado para não arranhar o visor
 
-2.Entregar junto com cada protetor [a nota de aviso](https://github.com/brothers-in-arms/Impressao-3D/blob/master/Arquivos%20para%20impressoras%203D/Modelos%20STL/README.md) peso do lado de fora
+2.Entregar junto com cada protetor a [nota de aviso](https://github.com/brothers-in-arms/Impressao-3D/blob/master/Arquivos%20para%20impressoras%203D/Modelos%20STL/README.md) pelo do lado de fora
 
 3.Seguir as orientações de [higienização](https://github.com/brothers-in-arms/Impressao-3D/blob/master/docs/HIGIENIZA%C3%87%C3%83O%20DAS%20M%C3%81SCARAS.pdf)
 
