@@ -17,7 +17,7 @@ Se entrou no grupo em busca de necessidade de EPIs (protetores faciais, mascaras
 
 
 ### Modelo Utilizado
-Utilize o [Modelo Impresso em 3D](http://hyperurl.co/StlAtual) e [Modelo Corte a Laser](https://github.com/brothers-in-arms/Impressao-3D/tree/master/Arquivos%20para%20corte%20a%20laser) aqui do Repositório do Git. Os modelos do Repositório já passaram por processo de validação por profissionais da saúde. Conforme novas versões forem aprovadas, os arquivos do respositório serão atualizados.
+Utilize o [Modelo Impresso em 3D](http://hyperurl.co/StlAtual) e [Modelo Corte a Laser da Viseira](https://github.com/brothers-in-arms/Impressao-3D/tree/master/Arquivos%20para%20corte%20a%20laser) aqui do Repositório do Git. Os modelos do Repositório já passaram por processo de validação por profissionais da saúde. Conforme novas versões forem aprovadas, os arquivos do respositório serão atualizados.
 
 #### Configurações de base
 As configurações para [impressão 3D](https://github.com/brothers-in-arms/Impressao-3D/tree/master/Arquivos%20para%20impressoras%203D/Configura%C3%A7%C3%B5es%20Base%20-%20Exemplo%20funcional) estão serparadas pelo pelo modelo da impressora + o nome do software.
