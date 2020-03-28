@@ -29,11 +29,11 @@ Em caso de necessidade de matéria prima para fabricação (filamento, elástico
 
 #### Passo Fundo
 
-[Tudo3D](https://clickprofissional.com.br/passo-fundo/impressao-3d/tudo-3d) - [Rua General Osório 1754](https://www.google.com/maps/place/R.+Gen.+Os%C3%B3rio,+1754+-+Centro,+Passo+Fundo+-+RS,+99010-140,+Brasil/@-28.2672629,-52.4139293,17z/data=!3m1!4b1!4m5!3m4!1s0x94e2bf7b9cfcac7f:0x5c37d7614590cedd!8m2!3d-28.2672629!4d-52.4117406) ap3, Das 8h às 17h , ligue para o número [(54) 3028-8899](tel:+555430288899)
+[Tudo3D](https://clickprofissional.com.br/passo-fundo/impressao-3d/tudo-3d) - [Rua General Osório 1754](https://www.google.com/maps/place/R.+Gen.+Os%C3%B3rio,+1754+-+Centro,+Passo+Fundo+-+RS,+99010-140,+Brasil/@-28.2672629,-52.4139293,17z/data=!3m1!4b1!4m5!3m4!1s0x94e2bf7b9cfcac7f:0x5c37d7614590cedd!8m2!3d-28.2672629!4d-52.4117406) ap3, Das 8h às 17h , ligue para o número [(54) 3028-8899](tel:+555430288899).
 
 #### Demais regiões
 
-Bruno Moraes, no telefone +55 (51) 98146-9414. [(51) 98146-9414](tel:+5551981469414)
+Bruno Moraes, no telefone [(51) 98146-9414](tel:+5551981469414).
  
 #### Realmente não tem como se locomover?
 **Utilize somente em caso de real necessidade.**
