@@ -9,3 +9,9 @@ Não descartável. Uso individual. A higienização, antes e após o uso, deve s
 Fabricado de forma descentralizada, por Impressão 3D.
 
 https://sites.google.com/view/brotherinarmscovid19/
+
+
+
+
+
+Aguardando Licença e link para o modelo original que foi alterado.
