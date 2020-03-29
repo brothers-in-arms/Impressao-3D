@@ -15,6 +15,7 @@
 ### Precisa de EPI?
 Se entrou no grupo em busca de necessidade de EPIs (protetores faciais, mascaras e afins), utilize o [Link de Requisição](https://sites.google.com/view/brotherinarmscovid19/cadastro-demandas-de-epis)
 
+### [Cadastro de voluntário impressão 3D](https://docs.google.com/forms/d/e/1FAIpQLSfFggVdx2RMtvtZ46o5GpSTNSufKxKyD1xiJLaTSzzaMIDu9A/viewform?usp=sf_link)
 
 ### Modelo Utilizado
 Utilize o [Modelo Impresso em 3D](http://hyperurl.co/StlAtual) e [Modelo Corte a Laser da Viseira](https://github.com/brothers-in-arms/Impressao-3D/tree/master/Arquivos%20para%20corte%20a%20laser) aqui do Repositório do Git. Os modelos do Repositório já passaram por processo de validação por profissionais da saúde. Conforme novas versões forem aprovadas, os arquivos do respositório serão atualizados.
