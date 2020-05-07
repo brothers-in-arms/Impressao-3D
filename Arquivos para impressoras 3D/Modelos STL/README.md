@@ -10,6 +10,3 @@ Fabricado de forma descentralizada, por Impressão 3D.
 
 http://brothersinarms.cc/
 
-
-
-Aguardando Licença e link para o modelo original que foi alterado.
